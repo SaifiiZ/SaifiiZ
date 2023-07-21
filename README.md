@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SaifiiZ
+- 👀 I’m interested in Artificial Intelligence and Machine Psychology 
+- 🌱 I’m currently learning python 
+- 💼 I can be reached at saifiizafar@gmail.com  
